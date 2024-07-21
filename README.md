@@ -93,3 +93,6 @@ uvicorn main:app --reload
 {baseurl}/redoc
 http://127.0.0.1:8000/redoc
 ```
+ untuk implementasi beberapa endpoint, gunakan token berikut ini:
+Header:
+x_token = qwerTyUiOp564321xYZ
